@@ -64,7 +64,6 @@ Click Stop to end the session.
 ## 📥 Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/yourusername/GestureVolumeControlApp.git
 cd GestureVolumeControlApp
 
@@ -91,6 +90,14 @@ comtypes
 You can install all dependencies using:
 
 pip install -r requirements.txt
+
+
+![Main Interface](images/1.png)
+![Example](images/2.png)
+![Example](images/3.png)
+
+
+
 
 
 
