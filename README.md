@@ -37,7 +37,19 @@ GestureVolumeControlApp/
 5. The interface updates in real-time with volume percentage and mute status.
 
 ---
+✅ How to Use
 
+Click Start Gesture Control to begin webcam feed.
+
+Move your hand in front of the camera.
+
+Adjust volume by spreading or closing your thumb and index finger.
+
+Mute/unmute by pinching your thumb and pinky fingertips.
+
+Click Stop to end the session.
+
+-------
 ## 🛠️ Technologies Used
 
 - **Python** – Main programming language  
@@ -79,6 +91,8 @@ comtypes
 You can install all dependencies using:
 
 pip install -r requirements.txt
+
+
 
 
 
