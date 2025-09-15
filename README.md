@@ -91,10 +91,10 @@ You can install all dependencies using:
 
 pip install -r requirements.txt
 
-
-![Main Interface](images/1.png)
-![Example](images/2.png)
-![Example](images/3.png)
+New folder/1.png
+![Main Interface](New folder/1.png)
+![Example](New folder/1.png)
+![Example](New folder/1.png)
 
 
 
