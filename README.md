@@ -64,5 +64,25 @@ pip install -r requirements.txt
 python GestureVolumeControl.py
 
 
+📦 Dependencies
+
+List of required libraries:
+
+opencv-python
+mediapipe
+numpy
+Pillow
+pycaw
+comtypes
+
+
+You can install all dependencies using:
+
+pip install -r requirements.txt
+
+
+
+
+
 
 
