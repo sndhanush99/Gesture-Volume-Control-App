@@ -15,19 +15,6 @@ An interactive **Gesture-Controlled Volume Adjustment** desktop application buil
 
 ---
 
-## 📂 Project Structure
-
-
-GestureVolumeControlApp/
-├── GestureVolumeControl.py # Main application script
-├── README.md # Project documentation
-├── requirements.txt # List of dependencies
-
-
-
-
----
-
 ## 📌 How it Works
 
 1. The app captures video from the webcam using OpenCV.
@@ -93,9 +80,9 @@ You can install all dependencies using:
 pip install -r requirements.txt
 
 New folder/1.png
-![Main Interface](New folder/1.png)
-![Example](New folder/1.png)
-![Example](New folder/1.png)
+![Main Interface](images/1.png)
+![Example](images/2.png)
+![Example](images/3.png)
 
 
 
