@@ -64,7 +64,8 @@ Click Stop to end the session.
 ## 📥 Installation & Setup
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/yourusername/GestureVolumeControlApp.git
+git clone https://github.com/sndhanush99/Gesture-Volume-Control-App
+----------------------------------
 cd GestureVolumeControlApp
 
 
